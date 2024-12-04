@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "62525356615",
+    "project_id": "authloginapp-c0c2d",
+    "storage_bucket": "authloginapp-c0c2d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62525356615:android:0b031d0c49aa1c2750cf62",
+        "android_client_info": {
+          "package_name": "com.example.authloginapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2-eqyTX74BDyI3CF0tRAMCLVX0Xcyve0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
