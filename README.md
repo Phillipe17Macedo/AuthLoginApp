@@ -29,7 +29,7 @@ Antes de iniciar, certifique-se de ter as seguintes ferramentas instaladas:
 ### 1. Clonar o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/AuthLoginApp.git
+git clone https://github.com/phillipe17macedo/AuthLoginApp.git
 cd AuthLoginApp
 ```
 
